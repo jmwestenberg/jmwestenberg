@@ -9,7 +9,7 @@ I'm Joe, a PhD student in Economics at IU-Bloomington. My research interests are
 </p>
 -	LinkedIn: 	<a href="https://www.linkedin.com/in/westenbergj"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 
-🌱 I’m currently learning packages for data summary in R. 🤔 Let me know if you have a favorite!
+🌱 I’m currently working on expanding my knowledge of packages for data summary in R. 🤔 Let me know if you have a favorite!
 
 
 Check out my [website](https://jmwestenberg.github.io) built using the Academic theme for Hugo.

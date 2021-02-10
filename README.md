@@ -9,8 +9,9 @@ I'm Joe, a PhD student in Economics at IU-Bloomington. My research interests are
 </p>
 -	LinkedIn: 	<a href="https://www.linkedin.com/in/westenbergj"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 
-🌱 I’m currently working on notes for an intro to R for economists crash course. 🤔 Let me know if you have any 'must know' recommendations!
+- 🤔 I’m currently working on notes for an intro to R for economists crash course. 🤔 Let me know if you have any 'must know' recommendations!
 
+- 🌱 I'm currently in the very prelimenary stages of learning python.
 
 Check out my [website](https://jmwestenberg.github.io) built using the Academic theme for Hugo.
 

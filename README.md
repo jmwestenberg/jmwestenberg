@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Joe, a PhD student in Economics at IU-Bloomington. My research interests are in Political Economy and Industrial Organization. 
+I'm Joe, a PhD student in Economics at IU-Bloomington. My research interests are in Political Economy and Industrial Organization. Other interests: coding and data visualization and communication.
 
 📫 How to reach me: 
 

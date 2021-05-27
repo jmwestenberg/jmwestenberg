@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Joe, a PhD Candidate in Economics at IU-Bloomington. My research interests are in Political Economy and Industrial Organization. Other interests: coding and data visualization.
+I'm Joe, a PhD Candidate in Economics at IU-Bloomington. My research interests are in Industrial Organization, Political Economy, and Applied Micro in general. Other interests: coding and data visualization.
 
 📫 How to reach me: 
 
@@ -9,9 +9,12 @@ I'm Joe, a PhD Candidate in Economics at IU-Bloomington. My research interests a
 </p>
 -	LinkedIn: 	<a href="https://www.linkedin.com/in/westenbergj"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 
-- 🤔 I’m currently working on notes for an intro to R for economists crash course. Let me know if you have any 'must know' recommendations!
+- 🤔 I previously taught an intro to R for economists workshop to teach basic data wrangling/plotting skills. See my notes at [here](https://jmwestenberg.github.io/courses/rcourse/) and let me know if you have any suggestions for additions!
 
 - 🌱 I'm currently in the very prelimenary stages of learning python.
+
+- ⚡ I love chatting with new people. Don't hesitate to reach out if you want to talk!
+
 
 Check out my [website](https://jmwestenberg.github.io) built using the Academic theme for Hugo. While you are there check out my grill creations @ <https://jmwestenberg.github.io/hobbies/grilling/march2021/>
 

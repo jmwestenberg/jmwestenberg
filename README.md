@@ -20,7 +20,7 @@ Check out my [website](https://jmwestenberg.github.io) built using the Academic 
 
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmwestenberg&layout=compact)](https://github.com/jmwestenberg/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmwestenberg&layout=compact" />
 
 
 <p align="left">

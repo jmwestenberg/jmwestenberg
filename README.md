@@ -18,10 +18,6 @@ I'm Joe, a PhD Candidate in Economics at IU-Bloomington. My research interests a
 
 Check out my [website](https://jmwestenberg.github.io) built using the Academic theme for Hugo. While you are there check out my grill creations @ <https://jmwestenberg.github.io/hobbies/grilling/march2021/>
 
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmwestenberg&layout=compact" />
-
 
 <p align="left">
 	<a href="https://github.com/jmwestenberg"><img src="https://img.shields.io/github/followers/jmwestenberg?color=red&logoColor=red&style=social"></a>

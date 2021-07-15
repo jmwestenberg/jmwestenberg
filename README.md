@@ -9,7 +9,7 @@ I'm Joe, a PhD Candidate in Economics at IU-Bloomington. My research interests a
 </p>
 -	LinkedIn: 	<a href="https://www.linkedin.com/in/westenbergj"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 
-- 🤔 I previously taught an intro to R for economists workshop to teach basic data wrangling/plotting skills. See my notes [here](https://r-introtodatascience.github.io/index.html) and code [here](https://github.com/jmwestenberg/Rcourse). Let me know if you have any suggestions for additions! 
+- 🤔 I previously taught an intro to R for economists workshop to teach basic data wrangling/plotting skills. See my notes [here](https://r-introtodatascience.github.io/index.html) and code [here](https://github.com/r-introtodatascience/sample_repo). Let me know if you have any suggestions for additions! 
 
 - 🌱 I'm currently in the very prelimenary stages of learning python.
 

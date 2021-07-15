@@ -9,14 +9,14 @@ I'm Joe, a PhD Candidate in Economics at IU-Bloomington. My research interests a
 </p>
 -	LinkedIn: 	<a href="https://www.linkedin.com/in/westenbergj"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
 
-- 🤔 I previously taught an intro to R for economists workshop to teach basic data wrangling/plotting skills. See my notes [here](https://jmwestenberg.github.io/courses/rcourse/) and code [here](https://github.com/jmwestenberg/Rcourse). Let me know if you have any suggestions for additions! 
+- 🤔 I previously taught an intro to R for economists workshop to teach basic data wrangling/plotting skills. See my notes [here](https://r-introtodatascience.github.io/index.html) and code [here](https://github.com/jmwestenberg/Rcourse). Let me know if you have any suggestions for additions! 
 
 - 🌱 I'm currently in the very prelimenary stages of learning python.
 
 - ⚡ I love chatting with new people. Don't hesitate to reach out if you want to talk!
 
 
-Check out my [website](https://jmwestenberg.github.io) built using the Academic theme for Hugo. While you are there check out my grill creations @ <https://jmwestenberg.github.io/hobbies/grilling/march2021/>
+Check out my [website](https://jmwestenberg.github.io) built using the Apero theme for Hugo. While you are there check out my grill creations @ <https://jmwestenberg.github.io/blog/pastgrill/>
 
 
 <p align="left">

@@ -1,7 +1,6 @@
 Hi there 👋
-I'm Joe, a PhD Candidate in Economics at IU-Bloomington. My research interests are in Industrial Organization, Political Economy, and Applied Micro in general. Other interests: coding and data visualization.
+I'm Joe, a Quantitative Analyst at ACES Power Marketing. My research interests are in Industrial Organization, Political Economy, and Applied Micro in general. Other interests: coding and data visualization.
 
-I am on the Job Market this year and available for interviews upon request.
 
 📫 How to reach me: 
 

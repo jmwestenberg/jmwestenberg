@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Joe, a Quantitative Analyst at ACES Power Marketing. My research interests are in Industrial Organization, Political Economy, and Applied Micro in general. Other interests: coding and data visualization.
+I'm Joe, a Quantitative Analyst. I received my Ph.D. in Economics at Indiana University in 2022. My research interests are in Industrial Organization, Political Economy, and Applied Micro in general. Other interests: coding and data visualization.
 
 
 📫 How to reach me: 
